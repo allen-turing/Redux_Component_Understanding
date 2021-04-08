@@ -1,2 +1,2 @@
 # Redux_Component_Understanding
-Implementing Redux Uding Componets and Hooks
+Implementing Redux Using Componets and Hooks
