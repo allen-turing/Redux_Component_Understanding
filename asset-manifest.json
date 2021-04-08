@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Redux_Component_Understanding/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/Redux_Component_Understanding/static/js/main.70f21789.chunk.js",
+    "main.js.map": "/Redux_Component_Understanding/static/js/main.70f21789.chunk.js.map",
+    "runtime-main.js": "/Redux_Component_Understanding/static/js/runtime-main.5b18671c.js",
+    "runtime-main.js.map": "/Redux_Component_Understanding/static/js/runtime-main.5b18671c.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "/Redux_Component_Understanding/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.c447169a.chunk.js": "/Redux_Component_Understanding/static/js/2.c447169a.chunk.js",
+    "static/js/2.c447169a.chunk.js.map": "/Redux_Component_Understanding/static/js/2.c447169a.chunk.js.map",
+    "index.html": "/Redux_Component_Understanding/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "/Redux_Component_Understanding/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "/Redux_Component_Understanding/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c447169a.chunk.js.LICENSE.txt": "/Redux_Component_Understanding/static/js/2.c447169a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b18671c.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.c447169a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.70f21789.chunk.js"
+  ]
+}
